@@ -3,7 +3,7 @@
 This is a Sora video content aggregation site written with Next.js 13.
 
 - Preview [https://www.aisora.org](https://www.aisora.org)
-
+- Under refinement....
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
