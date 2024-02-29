@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hover-card-container:hover .hover-content {
+    display: flex;
+}
