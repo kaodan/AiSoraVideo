@@ -1,4 +1,4 @@
-# Next.js & NextUI Template
+# AiSoraVideo
 
 This is a Sora video content aggregation site written with Next.js 13.
 
